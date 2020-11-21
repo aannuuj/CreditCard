@@ -1,22 +1,10 @@
 # CreditCard
 Swiftly CreditCard Flipping View in SwiftUI 
 
-
-
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
-
-<!-- PROJECT LOGO -->
-//<br />
-//<p align="center">
-  //<a href="https://github.com/aannuuj/CreditCard">
-  //  <img src="images/Screenshot.png" alt="img" width="80" height="80">
- // </a>
-//</p>
 
 ### Built With
 * [Swift](https://swift.org)
