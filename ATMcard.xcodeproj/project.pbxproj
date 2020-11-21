@@ -11,6 +11,8 @@
 		BE149F84256904DB003EFDC2 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE149F83256904DB003EFDC2 /* ContentView.swift */; };
 		BE149F86256904DE003EFDC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE149F85256904DE003EFDC2 /* Assets.xcassets */; };
 		BE149F89256904DE003EFDC2 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BE149F88256904DE003EFDC2 /* Preview Assets.xcassets */; };
+		BE149F922569050B003EFDC2 /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE149F912569050B003EFDC2 /* CardView.swift */; };
+		BE149F9525690539003EFDC2 /* Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BE149F9425690539003EFDC2 /* Extension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +22,8 @@
 		BE149F85256904DE003EFDC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		BE149F88256904DE003EFDC2 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		BE149F8A256904DE003EFDC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		BE149F912569050B003EFDC2 /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
+		BE149F9425690539003EFDC2 /* Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +58,8 @@
 			children = (
 				BE149F81256904DB003EFDC2 /* ATMcardApp.swift */,
 				BE149F83256904DB003EFDC2 /* ContentView.swift */,
+				BE149F912569050B003EFDC2 /* CardView.swift */,
+				BE149F9425690539003EFDC2 /* Extension.swift */,
 				BE149F85256904DE003EFDC2 /* Assets.xcassets */,
 				BE149F8A256904DE003EFDC2 /* Info.plist */,
 				BE149F87256904DE003EFDC2 /* Preview Content */,
@@ -139,7 +145,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				BE149F84256904DB003EFDC2 /* ContentView.swift in Sources */,
+				BE149F922569050B003EFDC2 /* CardView.swift in Sources */,
 				BE149F82256904DB003EFDC2 /* ATMcardApp.swift in Sources */,
+				BE149F9525690539003EFDC2 /* Extension.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
